@@ -37,7 +37,7 @@ The following animation demonstrates the application functionality:
 
 ## Deployed Application
 
-* The URL of the deployed application : [click here](https://adilh621.github.io/Destination-Dashboard/dashboard.html)
+* The URL of the deployed application : [click here](https://peterdudek.github.io/destination-dashboard/dashboard.html)
 
 
 - - -
